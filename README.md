@@ -1,1 +1,1 @@
-This is the beginning of my journey with Go
+This is the beginning of my journey learning Golang
